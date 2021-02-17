@@ -1,0 +1,23 @@
+.Container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+h1{
+    text-underline: black;
+    text-decoration: underline;
+}
+p{
+
+    text-align: center;
+    font-weight: bold;
+}
+.lasagne_clss{
+    text-align: center;
+}
+.Image_lasagne{
+    width: 350px;
+
+
+}
